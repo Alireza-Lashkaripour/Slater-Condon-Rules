@@ -1,0 +1,5 @@
+D_1 = (f_{v} b, f_{C} a, f_{O1} a, f_{O2} b)
+D_2 = (f_{O1} b, f_{C} b, f_{O1} a, f_{O2} a)
+D_3 = (f_{C} a, f_{O1} a, f_{O1} b, f_{O2} b)
+D_4 = (f_{O2} b, f_{C} b, f_{O1} a, f_{O2} a)
+D_5 = (f_{C} a, f_{O2} a, f_{O1} b, f_{O2} b)
