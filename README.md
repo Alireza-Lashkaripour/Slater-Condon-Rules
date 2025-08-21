@@ -22,8 +22,11 @@ name = orbital label (e.g. V, C, O1)
 s = a (alpha) or b (beta
 
 Here is and example:
+
 D_1 = (f_{V} b, f_{C} a, f_{O1} a, f_{O2} b)
+
 D_2 = (f_{C} a, f_{C} b, f_{O1} a, f_{O1} b)
+
 D_3 = (f_{C} a, f_{C} b, f_{O2} b, f_{O2} a)
 
 ## Usage
