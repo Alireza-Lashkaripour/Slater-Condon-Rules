@@ -1,0 +1,1 @@
+# Slater-Condon-Rules
